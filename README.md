@@ -39,3 +39,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSddc9KiUtOjgauNor0MBzTTN09gky5xE8uHWZMW
 
 ## 📝 Author
 Tanu Gowda
+
+## 📌 Note
+This project was created as part of the CSE0001 Digital Literacy course at VIT Bhopal University and reflects my practical understanding of digital tools and online professionalism.
